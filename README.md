@@ -58,7 +58,7 @@
 1. استنساخ المشروع:
 
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/Anashani867/MSTRAT-Hiring-task.git
    cd mstart-task
 
 2. تنزيل المكتبات باستخدام Composer:
